@@ -1,0 +1,35 @@
+/* General page styling */
+body {
+    background-color: #228B22; /* Change this to any color you prefer */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Box content styling */
+.content-box {
+    background-color: #D3D3D3; /* Light gray background */
+    padding: 50px; /* Space inside the box */
+    margin: 20px;  /* Space outside the box */
+    border: 15px solid #228B22; /* Green border */
+    width: 60%;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3); /* Add shadow for a 3D effect */
+}
+
+/* Heading and paragraph styling */
+h1 {
+    font-size: 24px;
+    color: #000000;
+}
+
+p {
+    font-size: 18px;
+    color: #333333;
+}
+
+strong {
+    font-weight: bold;
+}
