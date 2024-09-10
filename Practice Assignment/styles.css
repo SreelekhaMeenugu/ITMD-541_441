@@ -1,6 +1,6 @@
 /* General page styling */
 body {
-    background-color: #228B22; /* Change this to any color you prefer */
+    background-color: rgb(249, 251, 249); /* Change this to any color you prefer */
     display: flex;
     justify-content: center;
     align-items: center;
