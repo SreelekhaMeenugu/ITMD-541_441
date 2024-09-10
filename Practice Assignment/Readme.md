@@ -1,3 +1,3 @@
 # Practice Assignment
 
-!["Practice Assignmnet"](./Images/Practice%20Assign.png "Practice Assignment")
+!["Practice Assignmnet"](./Images/Personal%20Information.png "Practice Assignment")
