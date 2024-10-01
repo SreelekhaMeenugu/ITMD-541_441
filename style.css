@@ -1,0 +1,27 @@
+body {
+    background-color: #f7f8f7; /* Green background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: #d3d3d3; /* Light gray background */
+    padding: 50px;
+    margin: 20px;
+    border: 15px solid #008000; /* Green border */
+    width: 50%;
+    text-align: left;
+    line-height: 1.6;
+}
+
+h1 {
+    margin: 0 0 20px 0;
+}
+
+p {
+    margin: 10px 0;
+}
